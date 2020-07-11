@@ -1,0 +1,7 @@
+Header: top & gradient layer background: rgba(18, 40, 155, 0.6);
+primary color:
+
+sub head: #7BF8B4;
+depart bg: #12289B;
+
+FAQ: F8DD7B;
